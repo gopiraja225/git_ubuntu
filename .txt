@@ -1,0 +1,2 @@
+hello,
+i create git_ubuntu to configure git with ubuntu.
